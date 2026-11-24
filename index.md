@@ -6,4 +6,4 @@ Each user can connect their own Google account. The app then shows their appoint
 
 The app isn't sold or offered for download. It is used only by a few people on one private display.
 
-[Privacy policy](privacy.html)
+[Privacy policy](privacy.html) · [Terms of service](terms.html)
